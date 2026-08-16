@@ -1,8 +1,6 @@
 # Cyber_security_part3
 Secure Application Development and Applied Cryptography
-Below is the complete, submission-ready project for Part 3 — Secure Application Development and Applied Cryptography. All required source code files, configurations, CI/CD pipelines, and the complete README.md are provided with strict adherence to the project rubric.
-Suggested Repository Structure
-Plaintext
+Part 3 — Secure Application Development and Applied Cryptography. 
 capstone-part3/
 ├── .github/
 │   └── workflows/
@@ -508,5 +506,4 @@ A compromised third-party package runs with the full execution privileges of the
 * **CI/CD Pipeline:** Complete `.github/workflows/security.yml` runs Bandit (`bandit -r . -ll -ii`) and Semgrep on every push and pull request.
 * **Threat Modeling & Explanations:** Comprehensive STRIDE matrix, MD5 vs. Argon2id comparative breakdown, and 150–200 word Supply Chain Security statement are embedded directly in the `README.md`.
 
-<FollowUp label="Want to draft Part 4 (Applied AI/ML Threat Detection P
 
